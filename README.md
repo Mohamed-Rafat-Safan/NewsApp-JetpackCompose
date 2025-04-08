@@ -143,5 +143,5 @@ The following diagram shows all the modules and how each module interact with on
 </p>  <br>
 
 
-### This application using the API from : https://newsapi.org/v2/everything?q=bitcoin&apiKey=02c85722cbaf44b9a9369168c3ff2951
+### This application using the API from site: https://newsapi.org/docs/endpoints/everything
 
