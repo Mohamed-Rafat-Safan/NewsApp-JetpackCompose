@@ -20,15 +20,12 @@
 - SavedStateHandle  </br>
 - Coil Compose  </br>
 - Lottie animation with Compose  </br>
-- UI state efficiently using State, ViewModel </br>
-- Splash Screen with Compose </br>
-- Stepper Screen  </br>
 - Clean Architecture {presentation - domain - data} </br>
-- presentation pattern by [ MVVM & MVI ] </br>
+- MVVM & MVI architecture </br>
 - Pagination by Paging3  </br>
 - Retrofit2 & Gson - construct the REST APIs. </br>
 - Flow </br>
-- Caching news by Room Database 
+- Room Database 
 - DataStore Preferences 
 - Dependency injection by (Dagger Hilt) </br>
 - Coroutines for asynchronous </br> </br>
