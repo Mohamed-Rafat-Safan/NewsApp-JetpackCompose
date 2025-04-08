@@ -40,6 +40,19 @@ The following diagram shows all the modules and how each module interact with on
 </p>  <br> 
 
 
+## Images this application: <br>
+
+### Splash Screen & Stepper Screen: <br>
+
+<p align="left">
+<img src="https://github.com/user-attachments/assets/0b51d5fc-5a4e-43c8-9d78-0584fdf1606d" width="185" height="400" />
+ <span> &nbsp;  &nbsp; </span>
+<img src="https://github.com/user-attachments/assets/14c96d8a-d16e-419b-990b-e2a9f1fdfe6f" width="185" height="400" />
+ <span> &nbsp;  &nbsp;  </span>
+<img src="https://github.com/user-attachments/assets/b419daa7-9396-40d7-be39-4f1c9890989f" width="185" height="400" />
+ <span> &nbsp;  &nbsp;  </span>
+<img src="https://github.com/user-attachments/assets/2ef55749-1c25-4bb8-a1f3-d93b86fab4c4" width="185" height="400" />
+</p>
 
 
 
