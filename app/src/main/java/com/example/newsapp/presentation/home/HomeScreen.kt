@@ -29,6 +29,8 @@ import com.example.newsapp.presentation.Dimens.MediumPadding1
 import com.example.newsapp.presentation.common.ArticlesList
 import com.example.newsapp.presentation.common.SearchBar
 
+// Mohamed Rafat
+
 @Composable
 fun HomeScreen(
     articles: LazyPagingItems<Article>,
